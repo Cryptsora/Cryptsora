@@ -4,7 +4,7 @@
 - 🌱 I am currently expanding my skills in web3 development, data analysis, cybersecurity, cloud engineering, and all things IT-related to stay at the forefront of technological innovation.
 - 💞️ Excited to embark on a learning journey together with the GitHub community!
   
-[![Fongkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fongkan)](https://github.com/Fongkan/github-readme-stats)
+[![Cryptsora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cryptsora)](https://github.com/Cryptsora/github-readme-stats)
 
 
 # 💻 Tech Stack:
